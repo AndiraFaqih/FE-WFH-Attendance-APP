@@ -26,14 +26,14 @@ Ensure that you have the following installed:
     npm run dev
     ```
 
-The frontend will be available at `http://localhost:3000`.
+The frontend will be available at `http://localhost:5173`.
 
 ## Backend
 
 Ensure the backend is running before starting the frontend.
 
-1. The backend should be running at `http://localhost:3000` (or another port if configured differently).
-2. Follow the [backend README]([backend/README.md](https://github.com/AndiraFaqih/BE-WFH-Attendance-APP-Public)) to set up and run the backend.
+1. The backend should be running at `http://localhost:5173` (or another port if configured differently).
+2. Follow the [backend README](https://github.com/AndiraFaqih/BE-WFH-Attendance-APP-Public) to set up and run the backend.
 
 ## Authentication
 
